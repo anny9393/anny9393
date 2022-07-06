@@ -3,7 +3,7 @@
 Vue, HTML/CSS and other technologies. Amazon Web Services (AWS) Certified Developer –
 Associate. </p>
 <p>I love coding, passionate about problem-solving and personal development.</p>
-<h2> Please check out some of my projects below. </h2>
+<h2> Please check out some of my projects below: </h2>
 <br>- Website for Real Estate Styling  Agency (JavaScript, React, Gatsby, Cloud - AWS Services) </br>
 https://restyling.net.au/
 <br>- Messaging Application (React, Redux, Router)</br>
